@@ -6,6 +6,10 @@ topics: ["CAE", "Python", "Automation", "AI", "Architecture"]
 published: true
 ---
 
+* [第1回：構想と環境構築編](ansa-god-ai-part1)本記事
+* [第2回：コアロジック実装編](ansa-god-ai-part2)
+* [第3回：自己進化・メタ認知編](ansa-god-ai-part3)
+
 ## はじめに：CAE自動化の「壁」を越える
 
 CAEのプリ処理、特にジオメトリの修正（ヒーリング）は、熟練のエンジニアでも手こずる作業です。これを自動化しようとしたとき、従来のスクリプトでは「想定外の形状」で必ず停止してしまいます。
