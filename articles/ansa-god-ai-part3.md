@@ -6,6 +6,10 @@ topics: ["GenerativeAI", "Python", "SelfCorrection", "MetaCognition"]
 published: true
 ---
 
+* [第1回：構想と環境構築編](ansa-god-ai-part1)
+* [第2回：コアロジック実装編](ansa-god-ai-part2)
+* [第3回：自己進化・メタ認知編](ansa-god-ai-part3)本記事
+
 ## はじめに
 
 [前回](ansa-god-ai-part2)までで、AIが自律的に行動し、そのすべてをATL（Autonomous Trace Logger）に記憶する仕組みができました。
